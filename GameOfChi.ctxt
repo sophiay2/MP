@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ computerTurn()
+comment1.text=\n\ The\ computerTurn\ method\ chooses\ a\ random\ number\ from\ 1\ to\ 3\ if\n\ numStonesLeft\ is\ greater\ than\ or\ equal\ to\ 3,\ otherwise\ chooses\ a\ random\n\ number\ from\ 1\ to\ numStonesLeft.\n\ \n\ Then\ decrements\ numStonesLeft\ appropriately\ and\ prints\ the\ turn.\n
+comment2.params=
+comment2.target=void\ playerTurn()
+comment2.text=\n\ The\ playerTurn\ method\ prompts\ the\ user\ for\ a\ valid\ number\ of\ stones\ to\n\ choose\ and\ reads\ an\ int\ value\ from\ the\ user\ and\ will\ repeat\ this\ action\n\ while\ the\ user\ input\ is\ invalid.\ (i.e.\ user\ must\ choose\ 1,\ 2\ or\ 3\ AND\ their\n\ choice\ must\ be\ less\ than\ or\ equal\ to\ numStonesLeft.)\n\ \n\ Also\ decrements\ numStonesLeft\ appropriately\ and\ prints\ the\ turn.\n
+numComments=3
